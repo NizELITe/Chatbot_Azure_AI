@@ -64,7 +64,7 @@ This file is best for learning **how to send a direct prompt** without agents.
 
 ---
 
-# 2️⃣ Azure AI Foundry – Agent Creation + Thread + Run (agent_demo_1.py)
+# 2️⃣ Azure AI Foundry – Agent Creation + Thread + Run (AgenticAI.py)
 
 This script shows how to use the **AIProjectClient** to:
 
@@ -90,7 +90,7 @@ This script shows how to use the **AIProjectClient** to:
 
 ---
 
-# 3️⃣ Azure AI Foundry – Simple Agent Example (agent_demo_2.py)
+# 3️⃣ Azure AI Foundry – Simple Agent Example (AgenticAI2.py)
 
 This is a **lighter**, simpler version of demo #2.
 
@@ -121,8 +121,8 @@ This file is good if you want a **minimal clean example**.
 | File                | Purpose                                       | Difficulty       |
 | ------------------- | --------------------------------------------- | ---------------- |
 | **Chatfile.py**     | Basic chat API call                           | ⭐ Easy           |
-| **agent_demo_1.py** | Full agent workflow (threads, runs, messages) | ⭐⭐⭐ Intermediate |
-| **agent_demo_2.py** | Simple agent example                          | ⭐⭐ Medium        |
+| *AgenticAI.py** | Full agent workflow (threads, runs, messages) | ⭐⭐⭐ Intermediate |
+| **AgenticAI2.py** | Simple agent example                          | ⭐⭐ Medium        |
 
 ---
 
