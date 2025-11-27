@@ -110,21 +110,8 @@ agent = project.agents.create_agent(
     name="my-agent",
     instructions="You are a helpful AI assistant."
 )
-```
 
-This file is good if you want a **minimal clean example**.
 
----
-
-# 🧩 When to Use Which File?
-
-| File                | Purpose                                       | Difficulty       |
-| ------------------- | --------------------------------------------- | ---------------- |
-| **Chatfile.py**     | Basic chat API call                           | ⭐ Easy           |
-| *AgenticAI.py** | Full agent workflow (threads, runs, messages) | ⭐⭐⭐ Intermediate |
-| **AgenticAI2.py** | Simple agent example                          | ⭐⭐ Medium        |
-
----
 
 # 🔐 Environment Variables (Important)
 
@@ -156,4 +143,3 @@ az login
 
 
 
-Just tell me, Ahmed bro — I’ll hook you up.
